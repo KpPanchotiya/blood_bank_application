@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">XYZ Blood Bank</string>
+
+    <string-array name="donate_camp_location">
+        <item>Mumbai</item>
+        <item>Gujarat</item>
+        <item>Noida</item>
+        <item>Ahmedabad</item>
+        <item>Benglore</item>
+        <item>Asam</item>
+        <item>Meghalay</item>
+        <item>Rajsthan</item>
+        <item>Nagpur</item>
+        <item>Jammu</item>
+    </string-array>
+
+    <string-array name="donate_date">
+        <item>19/02</item>
+        <item>25/03</item>
+        <item>7/04</item>
+        <item>24/05</item>
+        <item>14/06</item>
+        <item>26/07</item>
+        <item>22/08</item>
+        <item>19/09</item>
+        <item>20/10</item>
+        <item>22/11</item>
+    </string-array>
+
+
+    <string-array name="donate_camp_name">
+        <item>Delta Blood Donation Camp</item>
+        <item>Birala Blood Donation Camp</item>
+        <item>Help Blood Donation Camp</item>
+        <item> Blood Donation Camp</item>
+        <item>Jayu Blood Donation Camp</item>
+        <item>Hecare Blood Donation Camp</item>
+        <item>Center Blood Donation Camp</item>
+        <item>Velly Blood Donation Camp</item>
+        <item>Marshall Blood Donation Camp</item>
+        <item>Diva Blood Donation Camp</item>
+    </string-array>
+</resources>
